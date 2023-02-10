@@ -1,0 +1,443 @@
+body {
+    background-color: #2E2E2E;
+    margin: 70px;
+}
+/* IRONMAN BODY */
+.ironman {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* IRONMAN HOVER */
+.ironman:hover {
+    box-shadow: 1px 8px 15px 1px rgb(230, 52, 76);
+}
+/* IRONMAN TITLE */
+.ironman h1 {
+    color: crimson;
+}
+/* IRONMAN IMAGE */
+.ironman img {
+    border-radius: 20px;
+}
+/* CAPTAIN AMERICA BODY */
+.captainamerica {
+    background-color: rgb(31, 46, 255);
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* CAPTAIN AMERICA HOVER */
+.captainamerica:hover {
+    box-shadow: 1px 8px 15px 1px rgb(31, 46, 255);
+}
+/* CAPTAIN AMERICA TITLE */
+.captainamerica h1 {
+    color: rgb(255, 255, 255);
+}
+/* CAPTAIN AMERICA IMAGE */
+.captainamerica img {
+    border-radius: 20px;
+}
+/* BLACKWIDOW BODY */
+.blackwidow {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* BLACKWIDOW HOVER */
+.blackwidow:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 0, 0);
+}
+/* BLACKWIDOW TITLE */
+.blackwidow h1 {
+    color: crimson;
+}
+/* BLACKWIDOW IMAGE */
+.blackwidow img {
+    border-radius: 20px;
+    padding: 0 20px;
+}
+/* HAWKEYE BODY */
+.hawkeye {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* HAWKEYE HOVER */
+.hawkeye:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 0, 0);
+}
+}
+/* HAWKEYE TITLE */
+.hawkeye h1 {
+    color: crimson;
+}
+/* HAWKEYE IMAGE */
+.hawkeye img {
+    border-radius: 20px;
+}
+/* HULK BODY */
+.hulk {
+    background-color: rgb(38, 255, 0);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* HULK HOVER */
+.hulk:hover {
+    box-shadow: 1px 8px 15px 1px rgb(38, 255, 0);
+}
+/* HULK TITLE */
+.hulk h1 {
+    color: crimson;
+}
+/* HULK IMAGE */
+.hulk img {
+    border-radius: 20px;
+}
+/* THOR BODY */
+.thor {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* THOR HOVER */
+.thor:hover {
+    box-shadow: 1px 8px 15px 1px rgb(58, 68, 255);
+}
+/* THOR TITLE */
+.thor h1 {
+    color: crimson;
+}
+/* THOR IMAGE */
+.thor img {
+    border-radius: 20px;
+}
+/* BLACK PANTHER BODY */
+.blackpanther {
+    background-color: rgb(8, 5, 35);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* BLACK PANTHER HOVER */
+.blackpanther:hover {
+    box-shadow: 1px 8px 15px 1px rgb(69, 5, 129);
+}
+/* BLACK PANTHER TITLE */
+.blackpanther h1 {
+    color: crimson;
+}
+/* BLACK PANTHER IMAGE */
+.blackpanther img {
+    padding: 0 20px;
+    border-radius: 20px;
+}
+/* ANTMAN BODY */
+.antman {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* ANTMAN HOVER */
+.antman:hover {
+    box-shadow: 1px 8px 15px 1px rgb(189, 5, 30);
+}
+/* ANTMAN TITLE */
+.antman h1 {
+    color: crimson;
+}
+/* ANTMAN IMG */
+.antman img {
+    border-radius: 20px;
+}
+/* WASP BODY */
+.wasp {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+/* WASP HOVER */
+.wasp:hover {
+    box-shadow: 1px 8px 15px 1px rgb(188, 141, 1);
+}
+/* WASP TITLE */
+.wasp h1 {
+    color: crimson;
+}
+/* WASP IMAGE */
+.wasp img {
+    padding: 0 20px;
+}
+/* DR.STRANGE BODY */
+.drstrange {
+    background-color: black;
+    color: rgb(245, 145, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+/* DR.STRANGE HOVER */
+.drstrange:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 255, 0);
+}
+/* DR.STRANGE TITLE */
+.drstrange h1 {
+    color: rgb(213, 227, 22);
+}
+/* DR.STRANGE IMAGE */
+.drstrange img {
+    padding: 0 20px;
+}
+/* WINTER SOLDIER BODY */
+.wintersoldier {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* WINTER SOLDIER HOVER */
+.wintersoldier:hover {
+    box-shadow: 1px 8px 15px 1px rgb(132, 132, 132);
+}
+/* WINTER SOLDIER TITLE */
+.wintersoldier h1 {
+    color: crimson;
+}
+/* WINTER SOLDIER IMAGE */
+.wintersoldier img {
+    padding: 0 20px;
+}
+/* FALCON BODY */
+.falcon {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+/* FALCON HOVER */
+.falcon:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 255, 255);
+}
+/* FALCON TITLE */
+.falcon h1 {
+    color: crimson;
+}
+/* FALCON IMAGE */
+.falcon img {
+    padding: 0 20px;
+}
+/* MARIA HILL BODY */
+.mariahill {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    line-height: 12px;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+/* MARIA HILL HOVER */
+.mariahill:hover {
+    box-shadow: 1px 8px 15px 1px rgb(245, 198, 142);
+}
+/* MARIA HILL TITLE */
+.mariahill h1 {
+    color: crimson;
+}
+/* MARIA HILL IMG */
+.mariahill img {
+    border-radius: 20px;
+}
+/* VISION BODY */
+.vision {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    line-height: 15px;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+/* VISION HOVER */
+.vision:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 230, 0);
+}
+/* VISION TITLE */
+.vision h1 {
+    color: crimson;
+}
+/* VISION IMAGE */
+.vision img {
+    padding: 0 17px;
+}
+/* SCARLET WITCH BODY */
+.scarletwitch {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 250px;
+    height: 500px;
+    font-size: 12px;
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    margin: 40px;
+    text-align: justify;
+    display: inline-block;
+    line-height: 16px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+/* SCARLET WITCH HOVER */
+.scarletwitch:hover {
+    box-shadow: 1px 8px 15px 1px rgb(255, 0, 0);
+}
+/* SCARLET WITCH TITLE */
+.scarletwitch h1 {
+    color: crimson;
+}
+/* SCARLET WITCH IMAGE */
+.scarletwitch img {
+    padding: 0 20px;
+}
+/* HEADING */
+.heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    margin: 20px;
+    color: aqua;
+}
+
